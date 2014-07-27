@@ -1,7 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
+## Create a list of special matrix functions
+## to create the matrix, 
+## to get the matrix,
+## get the cached matrix inverse, 
+## set the cached matrix inverse
 
 makeCacheMatrix <- function(x = matrix()) {
     m <- NULL
